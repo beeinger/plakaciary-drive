@@ -4937,6 +4937,11 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-angled@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/react-angled/-/react-angled-0.2.1.tgz#fe30d9ae183b960ff90624a1f36738e53942329f"
+  integrity sha512-f80ArMhA3duIXl5h1xHUvqrcOkavdQvTsZjMh/UYoBx3sgTpGqTKXjPQCSDC+e0RYDcqDFTYLFYhWk6ro7kiTQ==
+
 react-dom@^17.0.1:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-17.0.1.tgz#1de2560474ec9f0e334285662ede52dbc5426fc6"
