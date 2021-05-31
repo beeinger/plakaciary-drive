@@ -7,7 +7,7 @@
       "atoms/*": ["components/atoms/*"],
       "molecules/*": ["components/molecules/*"],
       "organisms/*": ["components/organisms/*"],
-      "utils/*": ["utils/*"]
+      "utils": ["utils"]
     },
     "allowJs": true,
     "skipLibCheck": true,
